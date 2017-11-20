@@ -67,6 +67,11 @@ zoom: 1;
     padding: 15px 0px 15px 0px;
     text-align: center;
 }
+#centent > .cent_box > .nav .active_color {
+    background: #ffff00;
+    color: #000;
+    border-radius: 5px;
+}
 
 /* 内容部分 */
 #centent > .cent_box > .cent {
